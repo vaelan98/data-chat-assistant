@@ -1,5 +1,5 @@
 # 🤖 Data Chat Assistant
-
+·
 > Chat with your data using natural language — powered by OpenAI GPT-4o-mini + Streamlit
 
 ---
